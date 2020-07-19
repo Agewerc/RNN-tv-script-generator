@@ -2,7 +2,8 @@
 
 This project was developed under the Deep Learning degree program of Udacity. We make use of Recurrent Neural Networks to create an automatic script generator for a TV series. 
 
-![Imgur](https://i.imgur.com/oFn36NB.png)
+<img src="https://i.imgur.com/oFn36NB.png" width="400">
+
 
        
 ## Recurrent Neural Network 
@@ -11,7 +12,7 @@ We implement the RNN using PyTorch's Module class. Additionally, use LSTM cells.
 \
 \
 \
-<img src="https://i.imgur.com/fzasvdH.png" width="48">
+<img src="https://i.imgur.com/fzasvdH.png" width="400">
 \
 \
 \
@@ -40,9 +41,7 @@ There are complete scripts of 9 seasons of the series.
 \
 \
 \
-![Imgur](https://i.imgur.com/YwM33ee.png)
-
-
+<img src="https://i.imgur.com/YwM33ee.png" width="400">
 \
 \
 **The Script:** Its not perfect but quite impressive!
