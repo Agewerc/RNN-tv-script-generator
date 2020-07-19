@@ -7,8 +7,15 @@ This project was developed under the Deep Learning degree program of Udacity. We
        
 ## Recurrent Neural Network 
 We implement the RNN using PyTorch's Module class. Additionally, use LSTM cells. 
-
-#### Training parameters
+\
+\
+\
+\
+![Imgur](https://i.imgur.com/fzasvdH.png)
+\
+\
+\
+**Training parameters**
 
 ```
 num_epochs = 10 
