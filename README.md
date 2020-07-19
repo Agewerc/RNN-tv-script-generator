@@ -11,9 +11,7 @@ We implement the RNN using PyTorch's Module class. Additionally, use LSTM cells.
 \
 \
 \
-<div style="width:50%">
-<img src="https://i.imgur.com/fzasvdH.png">
-</div>
+<img src="https://i.imgur.com/fzasvdH.png" width="48">
 \
 \
 \
@@ -42,10 +40,9 @@ There are complete scripts of 9 seasons of the series.
 \
 \
 \
+![Imgur](https://i.imgur.com/YwM33ee.png)
 
-<div style="width:50%">
-<img src="https://i.imgur.com/YwM33ee.png">
-</div>
+
 \
 \
 **The Script:** Its not perfect but quite impressive!
